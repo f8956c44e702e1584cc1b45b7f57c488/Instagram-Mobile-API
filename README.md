@@ -96,4 +96,4 @@ class Instagram {
 
 Contact me on Telegram below to obtain full-access.
 
-Telegram - @reversewasm
+[Telegram](https://t.me/f8956c44e702e1584cc1b45b7f57c488)
