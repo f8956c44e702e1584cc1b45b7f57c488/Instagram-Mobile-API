@@ -10,7 +10,7 @@ import Instagram from './modules/Instagram.js';
 
 /*
 
-All other features are redacted, contact me on Telegram (@Hartman50) for the full version.
+All other features are redacted, contact me on Telegram (@f8956c44e702e1584cc1b45b7f57c488) for the full version.
 
 Redacted Features:
 
