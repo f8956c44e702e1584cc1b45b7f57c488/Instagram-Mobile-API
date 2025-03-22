@@ -4,7 +4,7 @@ import Instagram from './modules/Instagram.js';
     const instagram = new Instagram(); // proxyless
     // const instagram = new Instagram('username:password@royal.vital-proxies.com:12321'); // proxied 
     console.log(
-        await instagram.login('jfidzu', '5grttqwx!')
+        await instagram.login('username', 'password')
     );
 })();
 
